@@ -16893,7 +16893,7 @@
           "arcs": [[-75, 76, 77, 78, 79, 80]],
           "type": "Polygon",
           "properties": {
-            "district": "Nilgiris",
+            "district": "The Nilgiris",
             "dt_code": "611",
             "st_nm": "Tamil Nadu",
             "st_code": "33",
@@ -17058,7 +17058,7 @@
           "arcs": [[133, 134, 135]],
           "type": "Polygon",
           "properties": {
-            "district": "Kanyakumari",
+            "district": "Kanniyakumari",
             "dt_code": "629",
             "st_nm": "Tamil Nadu",
             "st_code": "33",
@@ -17069,7 +17069,7 @@
           "arcs": [[-60, 136, 137, 138, 139, 140, 141, 142, 143, 144]],
           "type": "Polygon",
           "properties": {
-            "district": "Viluppuram",
+            "district": "Villupuram",
             "dt_code": "607",
             "st_nm": "Tamil Nadu",
             "st_code": "33",
@@ -17203,7 +17203,7 @@
           "arcs": [[-38, 179, -58, -177]],
           "type": "Polygon",
           "properties": {
-            "district": "Kancheepuram",
+            "district": "Kanchipuram",
             "dt_code": "604",
             "st_nm": "Tamil Nadu",
             "st_code": "33",
@@ -17346,7 +17346,7 @@
           "arcs": [[-229, 237, 238, -234, 239]],
           "type": "Polygon",
           "properties": {
-            "district": "Jajpur",
+            "district": "Jajapur",
             "dt_code": "382",
             "st_nm": "Odisha",
             "st_code": "21",
@@ -17357,7 +17357,7 @@
           "arcs": [[240, 241, 242, 243, 244]],
           "type": "Polygon",
           "properties": {
-            "district": "Subarnapur",
+            "district": "Sonepur",
             "dt_code": "392",
             "st_nm": "Odisha",
             "st_code": "21",
@@ -17500,7 +17500,7 @@
           "arcs": [[-265, 300, 301, 302, 303, 304]],
           "type": "Polygon",
           "properties": {
-            "district": "Uttar Bastar Kanker",
+            "district": "Kanker",
             "dt_code": "413",
             "st_nm": "Chhattisgarh",
             "st_code": "22",
@@ -17533,7 +17533,7 @@
           "arcs": [[-276, 311, 312, 313]],
           "type": "Polygon",
           "properties": {
-            "district": "Jagatsinghpur",
+            "district": "Jagatsinghapur",
             "dt_code": "380",
             "st_nm": "Odisha",
             "st_code": "21",
@@ -17566,7 +17566,7 @@
           "arcs": [[-310, 322, 323, 324, 325, 326, 327]],
           "type": "Polygon",
           "properties": {
-            "district": "Nabarangapur",
+            "district": "Nabarangpur",
             "dt_code": "397",
             "st_nm": "Odisha",
             "st_code": "21",
@@ -17852,7 +17852,7 @@
           "arcs": [[-411, 419, 420, 421, 422]],
           "type": "Polygon",
           "properties": {
-            "district": "Bagalkote",
+            "district": "Bagalkot",
             "dt_code": "556",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -17984,7 +17984,7 @@
           "arcs": [[-414, -466, 466, 467, 468, 469, 470, -458]],
           "type": "Polygon",
           "properties": {
-            "district": "Uttara Kannada",
+            "district": "Uttar Kannada",
             "dt_code": "563",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18028,7 +18028,7 @@
           "arcs": [[-41, 481, 482, -443, 483]],
           "type": "Polygon",
           "properties": {
-            "district": "S.P.S. Nellore",
+            "district": "Sri Potti Sriramulu Nell*",
             "dt_code": "550",
             "st_nm": "Andhra Pradesh",
             "st_code": "37",
@@ -18050,7 +18050,7 @@
           "arcs": [[-463, -488, 488, 489, -473]],
           "type": "Polygon",
           "properties": {
-            "district": "Davanagere",
+            "district": "Davangere",
             "dt_code": "567",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18094,7 +18094,7 @@
           "arcs": [[-477, 498, 499, 500, 501]],
           "type": "Polygon",
           "properties": {
-            "district": "Chikkaballapura",
+            "district": "Chikaballapura",
             "dt_code": "582",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18138,7 +18138,7 @@
           "arcs": [[-494, -498, -507, 512, 513, 514]],
           "type": "Polygon",
           "properties": {
-            "district": "Dakshina Kannada",
+            "district": "Dakshin Kannada",
             "dt_code": "575",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18149,7 +18149,7 @@
           "arcs": [[-51, 515, -510]],
           "type": "Polygon",
           "properties": {
-            "district": "Bengaluru Urban",
+            "district": "Bangaluru Urban",
             "dt_code": "572",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18182,7 +18182,7 @@
           "arcs": [[-65, -76, -81, 522, 523, 524, 525, -49]],
           "type": "Polygon",
           "properties": {
-            "district": "Chamarajanagara",
+            "district": "Chamarajanagar",
             "dt_code": "578",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18336,7 +18336,7 @@
           "arcs": [[-343, 558, 559, 560, 561]],
           "type": "Polygon",
           "properties": {
-            "district": "Dakshin Bastar Dantewada",
+            "district": "Dantewada",
             "dt_code": "416",
             "st_nm": "Chhattisgarh",
             "st_code": "22",
@@ -18369,7 +18369,7 @@
           "arcs": [[-203, -249, -311, -328, 566, 567]],
           "type": "Polygon",
           "properties": {
-            "district": "Gariaband",
+            "district": "Gariyaband",
             "dt_code": "720",
             "st_nm": "Chhattisgarh",
             "st_code": "22",
@@ -18435,7 +18435,7 @@
           "arcs": [[584, 585, 586, 587, 588, 589]],
           "type": "Polygon",
           "properties": {
-            "district": "Jagtial",
+            "district": "Jagitial",
             "dt_code": "737",
             "st_nm": "Telangana",
             "st_code": "36",
@@ -18446,7 +18446,7 @@
           "arcs": [[590, 591, 592, 593, 594, 595]],
           "type": "Polygon",
           "properties": {
-            "district": "Jangaon",
+            "district": "Jangoan",
             "dt_code": "752",
             "st_nm": "Telangana",
             "st_code": "36",
@@ -18512,7 +18512,7 @@
           "arcs": [[-270, 616, 617, -581, -281]],
           "type": "Polygon",
           "properties": {
-            "district": "Komaram Bheem",
+            "district": "Kumuram Bheem Asifabad",
             "dt_code": "733",
             "st_nm": "Telangana",
             "st_code": "36",
@@ -18743,7 +18743,7 @@
           "arcs": [[[660]], [[661]], [[662, 663, 664, 665]], [[666]], [[667]]],
           "type": "MultiPolygon",
           "properties": {
-            "district": "South 24 Parganas",
+            "district": "South Twenty Four Pargan*",
             "dt_code": "343",
             "st_nm": "West Bengal",
             "st_code": "19",
@@ -18765,7 +18765,7 @@
           "arcs": [[-236, -280, -298, -261, -241, 676, 677, 678, 679]],
           "type": "Polygon",
           "properties": {
-            "district": "Angul",
+            "district": "Anugul",
             "dt_code": "384",
             "st_nm": "Odisha",
             "st_code": "21",
@@ -18853,7 +18853,7 @@
           "arcs": [[-444, -483, 694, -475, -450]],
           "type": "Polygon",
           "properties": {
-            "district": "Y.S.R. Kadapa",
+            "district": "Y.S.R.",
             "dt_code": "551",
             "st_nm": "Andhra Pradesh",
             "st_code": "37",
@@ -18977,7 +18977,7 @@
           "arcs": [[716, 717, 718, 719, 720, 721]],
           "type": "Polygon",
           "properties": {
-            "district": "Paschim Medinipur",
+            "district": "Medinipur West",
             "dt_code": "344",
             "st_nm": "West Bengal",
             "st_code": "19",
@@ -19087,7 +19087,7 @@
           "arcs": [[769, 770, 771, 772, 773, 774]],
           "type": "Polygon",
           "properties": {
-            "district": "Kabeerdham",
+            "district": "Kabirdham",
             "dt_code": "407",
             "st_nm": "Chhattisgarh",
             "st_code": "22",
@@ -19098,7 +19098,7 @@
           "arcs": [[-186, -749, 775, -741, 776, 777, 778, 779, 780, 781]],
           "type": "Polygon",
           "properties": {
-            "district": "Khandwa",
+            "district": "East Nimar",
             "dt_code": "466",
             "st_nm": "Madhya Pradesh",
             "st_code": "23",
@@ -19153,7 +19153,7 @@
           "arcs": [[799, 800, 801, 802]],
           "type": "Polygon",
           "properties": {
-            "district": "Janjgir Champa",
+            "district": "Janjgir-Champa",
             "dt_code": "405",
             "st_nm": "Chhattisgarh",
             "st_code": "22",
@@ -19186,7 +19186,7 @@
           "arcs": [[-231, -809, -754, 809, -720, -752, 810]],
           "type": "Polygon",
           "properties": {
-            "district": "Balasore",
+            "district": "Baleshwar",
             "dt_code": "377",
             "st_nm": "Odisha",
             "st_code": "21",
@@ -19208,7 +19208,7 @@
           "arcs": [[-571, -576, 814, -771, 815, 816]],
           "type": "Polygon",
           "properties": {
-            "district": "Bametara",
+            "district": "Bemetara",
             "dt_code": "718",
             "st_nm": "Chhattisgarh",
             "st_code": "22",
@@ -19334,7 +19334,7 @@
           "arcs": [[-710, 838, 839, -732, -806, -791]],
           "type": "Polygon",
           "properties": {
-            "district": "Chhota Udaipur",
+            "district": "Chhotaudepur",
             "dt_code": "731",
             "st_nm": "Gujarat",
             "st_code": "24",
@@ -19600,7 +19600,7 @@
           "arcs": [[-268, -865, -601, -659, -660, -610, -646, -627]],
           "type": "Polygon",
           "properties": {
-            "district": "Jayashankar Bhupalapally",
+            "district": "Jayashankar",
             "dt_code": "750",
             "st_nm": "Telangana",
             "st_code": "36",
@@ -19919,7 +19919,7 @@
           "arcs": [[-951, -985, 1001, 1002, 1003, -991]],
           "type": "Polygon",
           "properties": {
-            "district": "Morigaon",
+            "district": "Marigaon",
             "dt_code": "304",
             "st_nm": "Assam",
             "st_code": "18",
@@ -19963,7 +19963,7 @@
           "arcs": [[-992, -1004, 1015, -1005]],
           "type": "Polygon",
           "properties": {
-            "district": "Kamrup Metropolitan",
+            "district": "Kamrup Metro",
             "dt_code": "322",
             "st_nm": "Assam",
             "st_code": "18",
@@ -19996,7 +19996,7 @@
           "arcs": [[-1003, 1022, 1023, 1024, 1025, -1006, -1016]],
           "type": "Polygon",
           "properties": {
-            "district": "Ribhoi",
+            "district": "Ri bhoi",
             "dt_code": "297",
             "st_nm": "Meghalaya",
             "st_code": "17",
@@ -20218,7 +20218,7 @@
           "arcs": [[1106, 1107, 1108, 1109, 1110]],
           "type": "Polygon",
           "properties": {
-            "district": "Sipahijala",
+            "district": "Sepahijala",
             "dt_code": "707",
             "st_nm": "Tripura",
             "st_code": "16",
@@ -20460,7 +20460,7 @@
           "arcs": [[-1100, -1106, 1155]],
           "type": "Polygon",
           "properties": {
-            "district": "Unokoti",
+            "district": "Unakoti",
             "dt_code": "710",
             "st_nm": "Tripura",
             "st_code": "16",
@@ -20515,7 +20515,7 @@
           "arcs": [[-1013, -1022, -1127, -1151, 1160]],
           "type": "Polygon",
           "properties": {
-            "district": "South Salmara Mankachar",
+            "district": "South Salmara Mancachar",
             "dt_code": "758",
             "st_nm": "Assam",
             "st_code": "18",
@@ -20693,7 +20693,7 @@
           "arcs": [[-1180, 1185, 1186]],
           "type": "Polygon",
           "properties": {
-            "district": "Upper Dibang Valley",
+            "district": "Dibang Valley",
             "dt_code": "257",
             "st_nm": "Arunachal Pradesh",
             "st_code": "12",
@@ -20759,7 +20759,7 @@
           "arcs": [[-883, -1193, -1182]],
           "type": "Polygon",
           "properties": {
-            "district": "Lepa Rada",
+            "district": "Leparada",
             "dt_code": "784",
             "st_nm": "Arunachal Pradesh",
             "st_code": "12",
@@ -21071,7 +21071,7 @@
           "arcs": [[1328, 1329, 1330, 1331]],
           "type": "Polygon",
           "properties": {
-            "district": "North Sikkim",
+            "district": "North District",
             "dt_code": "241",
             "st_nm": "Sikkim",
             "st_code": "11",
@@ -21225,7 +21225,7 @@
           "arcs": [[-1330, 1377, 1378, 1379]],
           "type": "Polygon",
           "properties": {
-            "district": "West Sikkim",
+            "district": "West District",
             "dt_code": "242",
             "st_nm": "Sikkim",
             "st_code": "11",
@@ -21236,7 +21236,7 @@
           "arcs": [[-1329, 1380, 1381, 1382, -1378]],
           "type": "Polygon",
           "properties": {
-            "district": "South Sikkim",
+            "district": "South District",
             "dt_code": "243",
             "st_nm": "Sikkim",
             "st_code": "11",
@@ -21247,7 +21247,7 @@
           "arcs": [[-1332, 1383, 1384, -1381]],
           "type": "Polygon",
           "properties": {
-            "district": "East Sikkim",
+            "district": "East District",
             "dt_code": "244",
             "st_nm": "Sikkim",
             "st_code": "11",
@@ -21346,7 +21346,7 @@
           "arcs": [[-1379, -1383, 1417, 1418, 1419, 1420, 1421, 1422]],
           "type": "Polygon",
           "properties": {
-            "district": "Darjeeling",
+            "district": "Darjiling",
             "dt_code": "327",
             "st_nm": "West Bengal",
             "st_code": "19",
@@ -21965,7 +21965,7 @@
           "arcs": [[-1574, 1648, -1647, 1649, 1650, 1651]],
           "type": "Polygon",
           "properties": {
-            "district": "Malda",
+            "district": "Maldah",
             "dt_code": "332",
             "st_nm": "West Bengal",
             "st_code": "19",
@@ -22075,7 +22075,7 @@
           "arcs": [[-1575, -1652, 1675, 1676, 1677, 1678]],
           "type": "Polygon",
           "properties": {
-            "district": "Sahibganj",
+            "district": "Sahebganj",
             "dt_code": "352",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22660,7 +22660,7 @@
           "arcs": [[-873, 1873, -1828, -1794, -1784, 1874, 1875]],
           "type": "Polygon",
           "properties": {
-            "district": "Koriya",
+            "district": "Korea",
             "dt_code": "400",
             "st_nm": "Chhattisgarh",
             "st_code": "22",
@@ -22715,7 +22715,7 @@
           "arcs": [[-846, 1891, 1892, 1893, -1866, -1863, -1845, 1894, 1895]],
           "type": "Polygon",
           "properties": {
-            "district": "Purulia",
+            "district": "Puruliya",
             "dt_code": "340",
             "st_nm": "West Bengal",
             "st_code": "19",
@@ -22847,7 +22847,7 @@
           "arcs": [[-665, 1921, 1922, 1923, -1832, 1924]],
           "type": "Polygon",
           "properties": {
-            "district": "North 24 Parganas",
+            "district": "North Twenty Four Pargan*",
             "dt_code": "337",
             "st_nm": "West Bengal",
             "st_code": "19",
@@ -22935,7 +22935,7 @@
           "arcs": [[-757, 1935, -1928, -1900, -1893, 1936]],
           "type": "Polygon",
           "properties": {
-            "district": "Saraikela-Kharsawan",
+            "district": "Saraikela Kharsawan",
             "dt_code": "369",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -23586,7 +23586,7 @@
           "arcs": [[2022, 2023, 2024, 2025, 2026, 2027, 2028]],
           "type": "Polygon",
           "properties": {
-            "district": "Leh",
+            "district": "Leh Dadakh",
             "dt_code": "003",
             "st_nm": "Ladakh",
             "st_code": "38",
@@ -23687,7 +23687,7 @@
           "arcs": [[-2041, -2059, 2059, 2060, 2061, 2062]],
           "type": "Polygon",
           "properties": {
-            "district": "Budgam",
+            "district": "Badgam",
             "dt_code": "002",
             "st_nm": "Jammu and Kashmir",
             "st_code": "01",
@@ -23709,7 +23709,7 @@
           "arcs": [[-2042, -2063, 2064, 2065, 2066, 2067, 2068]],
           "type": "Polygon",
           "properties": {
-            "district": "Punch",
+            "district": "Poonch",
             "dt_code": "005",
             "st_nm": "Jammu and Kashmir",
             "st_code": "01",
@@ -23720,7 +23720,7 @@
           "arcs": [[-2052, 2069, -2061, -2064]],
           "type": "Polygon",
           "properties": {
-            "district": "Shopiyan",
+            "district": "Shopian",
             "dt_code": "013",
             "st_nm": "Jammu and Kashmir",
             "st_code": "01",
@@ -23744,7 +23744,7 @@
           "arcs": [[-2066, -2074, 2074, 2075, 2076]],
           "type": "Polygon",
           "properties": {
-            "district": "Rajouri",
+            "district": "Rajauri",
             "dt_code": "006",
             "st_nm": "Jammu and Kashmir",
             "st_code": "01",
@@ -23788,7 +23788,7 @@
           "arcs": [[-2023, 2085, 2086, 2087, 2088, 2089, -2055, -2030]],
           "type": "Polygon",
           "properties": {
-            "district": "Lahaul and Spiti",
+            "district": "Lahaul Spiti",
             "dt_code": "025",
             "st_nm": "Himachal Pradesh",
             "st_code": "02",
@@ -24065,7 +24065,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "district": "S.A.S. Nagar",
+            "district": "S.A.S Nagar",
             "dt_code": "052",
             "st_nm": "Punjab",
             "st_code": "03",
@@ -24540,7 +24540,7 @@
           "arcs": [[-2144, -2175, -2204, -2210, -2169, 2303, -2147, 2304]],
           "type": "Polygon",
           "properties": {
-            "district": "Ferozepur",
+            "district": "Firozepur",
             "dt_code": "043",
             "st_nm": "Punjab",
             "st_code": "03",
