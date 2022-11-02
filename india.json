@@ -16706,7 +16706,7 @@
           "arcs": [[0, 1, 2, 3, 4, 5, 6, 7]],
           "type": "Polygon",
           "properties": {
-            "district": "Aizawl east",
+            "district": "Aizawl",
             "dt_code": "261",
             "st_nm": "Mizoram",
             "st_code": "15",
